@@ -53,3 +53,8 @@ body{
     text-align: center;
     padding: 0.5em;
 }
+#post #foto_juego
+{
+    max-width: 100%;
+    vertical-align: middle;
+}
